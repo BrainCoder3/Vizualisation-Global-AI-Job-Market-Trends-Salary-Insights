@@ -1,0 +1,2 @@
+# Vizualisation-Global-AI-Job-Market-Trends-Salary-Insights
+AI &amp; Data Job Salaries and Skills Dataset (2024–2025) analysis project. This dataset contains 15,000+ global job postings in AI, Data Science, and Machine Learning. The project explores salary trends, required skills, experience levels, remote work impact, and industry patterns using Python data analysis and visualization libraries.
